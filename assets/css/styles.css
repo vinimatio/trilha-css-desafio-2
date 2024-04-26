@@ -54,7 +54,7 @@ nav #pesquisa #lupa {
     flex: 0 1 auto;
     border: 1px solid #cccccc;
     border-left: 0px;
-    background: #f8f8f8 url("assets/images/nav/search.png") no-repeat center;
+    background: #f8f8f8 url("../images/nav/search.png") no-repeat center;
     border-radius: 0 15px 15px 0;
 }
 
